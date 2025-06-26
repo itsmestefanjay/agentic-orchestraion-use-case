@@ -4,14 +4,13 @@
 
 This use case shows how an ai connector orchestrates a set of tools to detect an order status
 
-!()[process.png]
+![](process.png)
 
 ## Tools
 
 - AWS Bedrock with Anthropic Claude 3 Haiku
 - Custom Java Workers for Order information
 - Camunda Saas (8.8)
-
 ## AWS Todos
 
 - AWS Bedrock -> Request Model Access
