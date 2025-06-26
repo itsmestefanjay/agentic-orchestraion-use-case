@@ -4,6 +4,8 @@
 
 This use case shows how an ai connector orchestrates a set of tools to detect an order status
 
+!()[process.png]
+
 ## Tools
 
 - AWS Bedrock with Anthropic Claude 3 Haiku
